@@ -1,4 +1,18 @@
 - commits:
+    - subject: Separate test from init
+      hash: b44dd395dc23070ae1a2f825cbec44d8c6c68fb5
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Harald Fischer <harald@balena.io>
+        signed-off-by: Harald Fischer <harald@balena.io>
+      author: Harald Fischer
+      nested: []
+  version: 0.192.1
+  title: "'Separate test from init'"
+  date: 2022-02-16T15:03:31.770Z
+- commits:
     - subject: "target-hostapp: Fix getOSReleaseResource parameter type"
       hash: 5948b90b1e056f9c6a64857cd5c53d9c51f79ae6
       body: ""
