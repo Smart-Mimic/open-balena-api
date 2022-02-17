@@ -1,4 +1,16 @@
 - commits:
+    - subject: Removed systemd from container
+      hash: b6e90f76786b6e5a1e63eba5926385df931946e3
+      body: |
+        Removed systemd from open-balena-api.
+      footer:
+        Change-type: minor
+        change-type: minor
+      author: Robbe Haesendonck
+      nested: []
+  version: 0.193.0
+  date: 2022-02-17T10:10:22.463Z
+- commits:
     - subject: "target-hostapp: Fix getOSReleaseResource parameter type"
       hash: 5948b90b1e056f9c6a64857cd5c53d9c51f79ae6
       body: ""
