@@ -1,4 +1,18 @@
 - commits:
+    - subject: Separate test from init
+      hash: bb631d404550d0e1cda581337d7d22c9338a96e4
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Harald Fischer <harald@balena.io>
+        signed-off-by: Harald Fischer <harald@balena.io>
+      author: Harald Fischer
+      nested: []
+  version: 0.192.5
+  title: "'Draft: Async migrator tests'"
+  date: 2022-02-21T19:56:06.131Z
+- commits:
     - subject: Fix generate-model-schema npm script for npm v8
       hash: 21b734492d609f841dc098ee0037eeb633ddec41
       body: ""
